@@ -1,4 +1,4 @@
-# CallingNumberParser
+# Number Parser
 
 When a user calls a phone, they can dial a number in their own country by using a national
 number, or dial a number in any country by using an international number.
